@@ -96,6 +96,7 @@ const (
 ```
 
 
-# 참조
-[Go 변수와 상수](http://golang.site/go/article/4-Go-%EB%B3%80%EC%88%98%EC%99%80-%EC%83%81%EC%88%98)
-[디스커버리 Go언어 - 한빛미디어](https://www.hanbit.co.kr/store/books/look.php?p_code=B5279497767)
+## 참조
+
+- [Go 변수와 상수](http://golang.site/go/article/4-Go-%EB%B3%80%EC%88%98%EC%99%80-%EC%83%81%EC%88%98)
+- [디스커버리 Go언어 - 한빛미디어](https://www.hanbit.co.kr/store/books/look.php?p_code=B5279497767)
