@@ -108,6 +108,7 @@ case 3:
 default:
 	println("default")
 }
+```
 
 ## 참조
 
